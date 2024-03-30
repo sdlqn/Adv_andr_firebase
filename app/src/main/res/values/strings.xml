@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Adv_andr_firebase</string>
+    <string name="Email_placeholder">Email</string>
+    <string name="Password_placeholder">Password</string>
+    <string name="Sign_up">Sign Up</string>
+    <string name="ok">OK</string>
+    <string name="Profile">Profile</string>
+</resources>
